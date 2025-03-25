@@ -2,8 +2,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+First, clone the repository:
 
-First, run the development server:
+```bash
+git clone https://github.com/GDG-MAIT/Website.git
+```
+Navigate into the project directory:
+
+```bash
+cd Website
+```
+Run the following command to install the required dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
