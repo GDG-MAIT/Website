@@ -15,8 +15,8 @@ export default function About() {
       bio: "Full-stack developer specialized in React and Firebase applications."
     },
     {
-      name: "Navdeep Chillar",
-      role: "Design Lead",
+      name: "Navdeep",
+      role: "Creative Head",
       image: "/gdgLogo.png",
       bio: "UI/UX enthusiast who loves creating intuitive user experiences."
     },
