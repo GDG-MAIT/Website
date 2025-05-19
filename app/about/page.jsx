@@ -10,7 +10,7 @@ export default function About() {
     },
     {
       name: "Chayan Khetan",
-      role: "Technical Lead",
+      role: "Technical Head",
       image: "/gdgLogo.png",
       bio: "Full-stack developer specialized in React and Firebase applications."
     },
