@@ -4,7 +4,7 @@ export default function About() {
   const teamMembers = [
     {
       name: "Rohit Goel",
-      role: "GDSC Lead",
+      role: "GDG Co-ordinator",
       image: "/gdgLogo.png",
       bio: "Computer Science senior with a passion for AI and community building."
     },
